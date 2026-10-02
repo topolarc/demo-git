@@ -5,6 +5,4 @@ public class UserService {
     public void helloWorld() {
         System.out.println("Здравствуй, мир!");
     }
-
-    public void joke() {}
 }
